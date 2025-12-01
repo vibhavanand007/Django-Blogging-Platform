@@ -40,7 +40,7 @@ A simple blog application built with Django that features user registration, blo
 ## Installation
 
 1. Clone the Repository
-git clone https://github.com/your-username/django-blog-app.git
+git clone https://github.com/vibhavanand007/Django-Blogging-Platform
 cd django-blog-app
 
 2. Create a Virtual Environment
